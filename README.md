@@ -17,3 +17,6 @@
  
  **The solution provides both the application source code as well the installer project to create and installable for MS windows platform.
  
+**Following is the link to download the installable (.msi) file for Microsoft windows.
+
+https://ln4.sync.com/dl/66a616290/f6zgdb8g-5m2ugs5q-gic4ubpa-qqmekmfv
