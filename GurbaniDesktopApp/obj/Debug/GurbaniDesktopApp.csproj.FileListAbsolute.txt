@@ -1,0 +1,52 @@
+C:\Users\Sukhdeep.Singh1\Documents\Visual Studio 2015\Projects\GurbaniDesktopApp\GurbaniDesktopApp\bin\Debug\GurbaniDesktopApp.exe.config
+C:\Users\Sukhdeep.Singh1\Documents\Visual Studio 2015\Projects\GurbaniDesktopApp\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.csproj.ResolveComReference.cache
+C:\Users\Sukhdeep.Singh1\Documents\Visual Studio 2015\Projects\GurbaniDesktopApp\GurbaniDesktopApp\bin\Debug\GurbaniDesktopApp.exe
+C:\Users\Sukhdeep.Singh1\Documents\Visual Studio 2015\Projects\GurbaniDesktopApp\GurbaniDesktopApp\bin\Debug\GurbaniDesktopApp.pdb
+C:\Users\Sukhdeep.Singh1\Documents\Visual Studio 2015\Projects\GurbaniDesktopApp\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.FormConsole.resources
+C:\Users\Sukhdeep.Singh1\Documents\Visual Studio 2015\Projects\GurbaniDesktopApp\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.FormDisplay.resources
+C:\Users\Sukhdeep.Singh1\Documents\Visual Studio 2015\Projects\GurbaniDesktopApp\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.Properties.Resources.resources
+C:\Users\Sukhdeep.Singh1\Documents\Visual Studio 2015\Projects\GurbaniDesktopApp\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.csproj.GenerateResource.Cache
+C:\Users\Sukhdeep.Singh1\Documents\Visual Studio 2015\Projects\GurbaniDesktopApp\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.exe.licenses
+C:\Users\Sukhdeep.Singh1\Documents\Visual Studio 2015\Projects\GurbaniDesktopApp\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.exe
+C:\Users\Sukhdeep.Singh1\Documents\Visual Studio 2015\Projects\GurbaniDesktopApp\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.pdb
+C:\Users\Sukhdeep.Singh1\Documents\Visual Studio 2015\Projects\GurbaniDesktopApp\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.csprojResolveAssemblyReference.cache
+C:\Users\Sukhdeep.Singh1\Documents\Visual Studio 2015\Projects\GurbaniDesktopApp\GurbaniDesktopApp\bin\Debug\GurbaniDesktopApp.exe.manifest
+C:\Users\Sukhdeep.Singh1\Documents\Visual Studio 2015\Projects\GurbaniDesktopApp\GurbaniDesktopApp\bin\Debug\GurbaniDesktopApp.application
+C:\Users\Sukhdeep.Singh1\Documents\Visual Studio 2015\Projects\GurbaniDesktopApp\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.TrustInfo.xml
+C:\Users\Sukhdeep.Singh1\Documents\Visual Studio 2015\Projects\GurbaniDesktopApp\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.exe.manifest
+C:\Users\Sukhdeep.Singh1\Documents\Visual Studio 2015\Projects\GurbaniDesktopApp\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.application
+C:\TFS\GurbaniDesktopApp\GurbaniDesktopApp\bin\Debug\GurbaniDesktopApp.exe.config
+C:\TFS\GurbaniDesktopApp\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.csproj.ResolveComReference.cache
+C:\TFS\GurbaniDesktopApp\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.exe
+C:\TFS\GurbaniDesktopApp\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.pdb
+C:\TFS\GurbaniDesktopApp\GurbaniDesktopApp\bin\Debug\GurbaniDesktopApp.exe.manifest
+C:\TFS\GurbaniDesktopApp\GurbaniDesktopApp\bin\Debug\GurbaniDesktopApp.application
+C:\TFS\GurbaniDesktopApp\GurbaniDesktopApp\bin\Debug\GurbaniDesktopApp.exe
+C:\TFS\GurbaniDesktopApp\GurbaniDesktopApp\bin\Debug\GurbaniDesktopApp.pdb
+C:\TFS\GurbaniDesktopApp\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.FormConsole.resources
+C:\TFS\GurbaniDesktopApp\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.FormDisplay.resources
+C:\TFS\GurbaniDesktopApp\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.Properties.Resources.resources
+C:\TFS\GurbaniDesktopApp\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.csproj.GenerateResource.Cache
+C:\TFS\GurbaniDesktopApp\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.exe.licenses
+C:\TFS\GurbaniDesktopApp\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.TrustInfo.xml
+C:\TFS\GurbaniDesktopApp\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.exe.manifest
+C:\TFS\GurbaniDesktopApp\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.application
+C:\TFS\GurbaniDesktopApp-New\GurbaniDesktopApp\bin\Debug\GurbaniDesktopApp.exe.config
+C:\TFS\GurbaniDesktopApp-New\GurbaniDesktopApp\bin\Debug\GurbaniDesktopApp.exe.manifest
+C:\TFS\GurbaniDesktopApp-New\GurbaniDesktopApp\bin\Debug\GurbaniDesktopApp.application
+C:\TFS\GurbaniDesktopApp-New\GurbaniDesktopApp\bin\Debug\GurbaniDesktopApp.exe
+C:\TFS\GurbaniDesktopApp-New\GurbaniDesktopApp\bin\Debug\GurbaniDesktopApp.pdb
+C:\TFS\GurbaniDesktopApp-New\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.csprojResolveAssemblyReference.cache
+C:\TFS\GurbaniDesktopApp-New\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.csproj.ResolveComReference.cache
+C:\TFS\GurbaniDesktopApp-New\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.FormConsole.resources
+C:\TFS\GurbaniDesktopApp-New\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.Properties.Resources.resources
+C:\TFS\GurbaniDesktopApp-New\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.csproj.GenerateResource.Cache
+C:\TFS\GurbaniDesktopApp-New\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.exe.licenses
+C:\TFS\GurbaniDesktopApp-New\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.csproj.CoreCompileInputs.cache
+C:\TFS\GurbaniDesktopApp-New\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.TrustInfo.xml
+C:\TFS\GurbaniDesktopApp-New\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.exe.manifest
+C:\TFS\GurbaniDesktopApp-New\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.application
+C:\TFS\GurbaniDesktopApp-New\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.exe
+C:\TFS\GurbaniDesktopApp-New\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.pdb
+C:\TFS\GurbaniDesktopApp-New\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.FormDisplay.resources
+C:\TFS\GurbaniDesktopApp\GurbaniDesktopApp\obj\Debug\GurbaniDesktopApp.csprojResolveAssemblyReference.cache
